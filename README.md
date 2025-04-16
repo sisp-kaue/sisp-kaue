@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Kau
+# Hi there! 👋 Sou Kau!
 
-## About Me
-I'm a Fullstack Developer from Brazil passionate about creating meaningful projects and solving problems. Additionally, I work as a Web Develloper at [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
+## Sobre Mim
+Sou um Desenvolvedor Fullstack brasileiro apaixonado por criar projetos significativos e resolver problemas. Além disso, trabalho como Desenvolvedor Web na [Sisplan Sistemas](https://sisplansistemas.com.br) 🇧🇷.
 
-## 💻 Languages and Tools
+## 💻 Linguagens e Ferramentas
 [![languages](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
 
-### Databases
+### Banco de Dados
 [![databases](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
