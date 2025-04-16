@@ -7,4 +7,4 @@ I'm a Fullstack Developer from Brazil passionate about creating meaningful proje
 [![languages](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
 
 ### Databases
-[![databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![databases](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
